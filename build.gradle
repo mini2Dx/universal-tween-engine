@@ -27,7 +27,7 @@ if(project.hasProperty('ossrhUser') && project.hasProperty("release")) {
 }
 
 group = 'org.mini2Dx'
-version = '6.3.3-SNAPSHOT'
+version = '6.3.3'
 description = 'The Universal Tween Engine enables the interpolation of every attributes from any object'
 
 repositories {
